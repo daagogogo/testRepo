@@ -1,8 +1,8 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");        System.out.println("hello");
-        System.out.println("hello");        System.out.println("hello");
+        System.out.println("git hello");
+        System.out.println("git hello1");
+        System.out.println("git hello2");
+        System.out.println("git hello3");
     }
 }
